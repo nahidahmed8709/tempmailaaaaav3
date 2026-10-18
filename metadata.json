@@ -1,0 +1,6 @@
+{
+  "name": "AutoTempMail",
+  "description": "Automation-friendly temporary email service with auto OTP detection, one-click OTP copy, stable DOM selectors, and free live Mail.tm API integration.",
+  "requestFramePermissions": ["clipboard-read", "clipboard-write"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
